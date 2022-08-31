@@ -1,0 +1,7 @@
+Wedding,25000,Krishna
+Wedding,25000,Kishore
+Wedding,25000,Karthikeyan
+Weeng,25000,Karthikeyan
+Wedding,25000,Kabali
+Wedding,25000,Kaveri
+Wedding,215000,Kaveri
